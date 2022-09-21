@@ -18,9 +18,9 @@ public class GitMethods
 		 System.out.println("I am in Class C");
 
 	}
-	private void ClassD() 
+	private void ClassE() 
 	{
-		 System.out.println("I am in Class D");
+		 System.out.println("I am in Class E");
 
 	}
 	
