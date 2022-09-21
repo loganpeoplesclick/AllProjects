@@ -18,6 +18,11 @@ public class GitMethods
 		 System.out.println("I am in Class C");
 
 	}
+	private void ClassD() 
+	{
+		 System.out.println("I am in Class D");
+
+	}
 	
 	
 	
